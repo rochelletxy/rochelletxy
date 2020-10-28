@@ -14,3 +14,4 @@ in nonsense is strength 🪐
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rochelletxy&theme=default)
 
 </center>
+ok byee im not working on anything rn
