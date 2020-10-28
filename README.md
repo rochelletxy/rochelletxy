@@ -4,4 +4,4 @@
 </a> <br>
 in nonsense is strength 🪐
 <br>
-![rochelle's github stats](https://github-readme-stats.vercel.app/api?username=rochelletxy&theme=dark&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rochelletxy&count_private=true&show_icons=true&theme=dark&include_all_commits=true&icon_color=ffffff)
