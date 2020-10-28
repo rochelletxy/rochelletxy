@@ -3,5 +3,3 @@
   <img src="https://pronouns.vercel.app/they/them?gradient=noon%20to%20dusk" width="256" height="64" alt="My pronouns are they/them">
 </a> <br>
 in nonsense is strength 🪐
-<br>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rochelletxy&count_private=true&show_icons=true&theme=dark&include_all_commits=true&icon_color=ffffff)
